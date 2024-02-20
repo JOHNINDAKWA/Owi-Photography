@@ -432,6 +432,7 @@ user-select: none;}
   place-content: center;
   visibility: hidden;
   transition: 0.25s var(--cubic-in);
+  z-index: 10;		
 }
 
 .navbar.active {
